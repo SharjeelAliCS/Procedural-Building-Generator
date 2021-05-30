@@ -1,0 +1,55 @@
+Shape Type = 2
+Sides = 5
+Building Width 1 = 300
+Building Length 1 = 500
+Building Width 2 = 500
+Building Length 2 = 200
+Building Height = 500
+
+Overhang Width = 30
+Overhang Thickness = 5
+Overhang Height = 20
+
+Window Bottom Width Scale = 2
+Window Bottom Height Scale = 2
+Window Centre Width Scale = 2
+Window Centre Height Scale = 2
+Window Top Width Scale = 2
+Window Top Height Scale = 2
+
+Grid Bottom Width = 4
+Grid Bottom Length = 4
+Grid Bottom Side 3 = 4
+Grid Bottom Side 4 = 4
+Grid Bottom Side 5 = 4
+Grid Bottom Side 6 = 4
+Bottom Tile Height = 0
+
+Grid Centre Width = 4
+Grid Centre Length = 4
+Grid Centre Side 3 = 4
+Grid Centre Side 4 = 4
+Grid Centre Side 5 = 4
+Grid Centre Side 6 = 4
+
+Grid Top Width = 4
+Grid Top Length = 4
+Grid Top Side 3 = 4
+Grid Top Side 4 = 4
+Grid Top Side 5 = 4
+Grid Top Side 6 = 4
+Grid Height = 3
+
+Vertical Offset = 0
+
+Window Bottom Design = 2
+Window Centre Design = 4
+Window Top Design = 2
+
+Door Location = 1
+Door Width Scale = 2
+Door Height Scale = 1.5
+
+//Remove Window = (0,-1,2),(3,-1,2)
+//Railings = (50,-1,1)
+

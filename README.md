@@ -2,6 +2,8 @@
 
 This was created as part of the Dean's Summer Research Internship (2017). 
 
+![image info](./images/overview.png)
+
 There are two source files included, being the SCAD file, and the C++ file. The SCAD file can be run in OpenSCAD without any additional depdencies, and was used as the "blueprint" design, wise for the actual C++ source code, which is recommended.
 
 This program allows the user to procedurally generate a
