@@ -20,6 +20,11 @@ TODO: Add CMake file.
 
 This uses the CGAL library to create shapes. To run it, simply compile the main.cpp program and run it.
 
+Note: 
+1. In order to use the C++ code, please make sure your compiler supports C++11
+2. In order to run the program, move the "input_parameters.txt" and move this to wherever your C++ compiler looks for input files. 
+3. Rename the C++ file to main.cpp
+
 # Running
 
  
@@ -49,3 +54,10 @@ add additional brackets such that (),().
 Note: In order to use the remove windows parameter list, it is the same as
 railings, however each brackets contains (x,y,side). Once again, if a -1 is
 applied, it removes all windows in that axis.
+
+# Outputs
+
+The outputs are found in the meshes/ folder. This folder contains three sets of meshes, where each set contains a C++ .OFF mesh file, openSCAD .oFF mesh file and its output parameters. In order to use the output parameters, just copy and paste the file into the "input_parameters.txt" file. 
+	 
+
+
